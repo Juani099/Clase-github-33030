@@ -26,6 +26,11 @@ h1{
     padding: 5px;
 }
 
+img:hover{
+    transform: scale(1.15);
+    filter: saturate(2%);
+}
+
 /* Mobile last */
 
 @media (max-width: 550px){
